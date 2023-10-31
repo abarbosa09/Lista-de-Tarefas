@@ -15,6 +15,7 @@ java.util.ArrayList: Estrutura de dados para armazenar uma lista de itens, usada
 
 *Pré-requisitos :*
     JDK (Java Development Kit) instalado em sua máquina.
+    
     Ambiente de desenvolvimento Java, como IntelliJ IDEA (opcional) versão 20.0.2 
 
 
